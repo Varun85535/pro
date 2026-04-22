@@ -17,7 +17,7 @@ public class App extends HttpServlet {
 
         out.println("<html><body>");
         out.println("<h2>Hello from Java 🚀</h2>");
-        out.println("<p>This response is coming from Java code</p>");
+        out.println("<p>This response is coming from Servlet</p>");
         out.println("</body></html>");
     }
 }
